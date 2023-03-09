@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img height="350" src="https://files.fm/f/qr22t6eyn"  />
+  <img height="350" src="https://fv2-3.failiem.lv/thumb_show.php?i=qr22t6eyn&view" />
 </div>
 
 ###
