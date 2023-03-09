@@ -1,8 +1,8 @@
-<h1 align="left">WhatsLab</h1>
+<h1 align="left">WhatsLab 💬</h1>
 
 ###
 
-<p align="left">Clone do WhatsApp 💬</p>
+<p align="left">Clone do WhatsApp</p>
 
 ###
 
