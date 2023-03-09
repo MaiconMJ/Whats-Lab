@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Clone do WhatsApp</p>
+<p align="left">Clone do WhatsApp 💬</p>
 
 ###
 
