@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Javascript;<br>CSS;<br>Styled-components;<br>React;</p>
+<p align="left">Javascript;<br>HTML;<br>CSS;<br>Styled-components;<br>React;</p>
 
 ###
 
